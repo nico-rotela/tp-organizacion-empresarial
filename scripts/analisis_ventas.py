@@ -29,3 +29,5 @@ plt.ylabel("Ventas")
 plt.savefig("../resultados/grafico_ventas.png")
 
 print("Gráfico guardado correctamente")
+
+# Fin del análisis de ventas
